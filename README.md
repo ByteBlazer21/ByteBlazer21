@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ByteBlazer21
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning next.js 15 react and tailwindcss
-- 💞️ I’m looking to collaborate on "how can i can over the wolrd?
+- 💞️ I’m looking to collaborate on how can i can over the wolrd?
 - 📫 How to reach me no chance
 - 😄 Pronouns: ...
 - ⚡ Fun fact: im a human
